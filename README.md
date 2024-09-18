@@ -49,12 +49,20 @@ To run the projects locally, follow these steps:
 
     Logistic Regression
     Decision Tree Classifier
-    Support Vector Machines (SVM)
+    Support Vector Classifiers (SVC)
+    Random Forest Classifiers
+    Decision Tree Classifiers
+    K Nearest Neighbours Classification
 
 ### **Regression Algorithms:**
 
     Simple Linear Regression
     Multiple Regression
+    Support Vector Regressor (SVR)
+    Decision Tree Regressor
+    Randome Forest Regressor
+    Knn Regression
+    
 
 ### **Clustering Algorithms:**
 
